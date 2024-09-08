@@ -1,0 +1,175 @@
+﻿*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:hsla(0, 0%, 100%, 1) ;
+    margin: 0;
+    
+}
+
+@font-face{
+    font-family: mull;
+    src: url(Mulish-VariableFont_wght.ttf);
+}
+
+
+.col-md-3{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.card{
+    width: 213px !important;
+    height: 262px !important;
+    
+}
+
+.groups{
+    width: 58px;
+    height: 58px;
+   
+}
+
+.box1{
+    display: flex ;
+    align-items: center ;
+    margin-top: 20px;
+    margin-left: 20px;
+    column-gap: 18px;
+}
+
+.numbers{
+    display: flex;
+    align-items: center;
+    column-gap: 6px;
+    margin-left: 20px;
+    
+}
+
+.normal{
+    width: 58px;
+    height: 23px;
+    border-radius: 4px;
+    background-color:#F8DEBD ;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: mull;
+    text-align: center;
+}
+
+.gr11{
+    width: 173px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parag1{
+    font-size: 32px;
+}
+.parag2{
+    font-size: 16px;
+    font-family: mull;
+    color:#818181 ;
+}
+
+
+
+.normal2{
+    width: 58px;
+    height: 23px;
+    border-radius: 4px;
+    background-color:#FBF0F3;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: mull;
+    text-align: center
+}
+
+.box23{
+     font-size: 16px;
+    font-family: mull;
+    margin-left: 5px;
+}
+.normal3{
+    width: 58px;
+    height: 23px;
+    border-radius: 4px;
+    background-color:#D0FBFF ;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: mull;
+    text-align: center;
+    
+}
+
+.vec{
+    width: 58px;
+    height: 58px;
+    border-radius: 12px;
+    background-color:#F8BDBD ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.groups1{
+    width:26.71px ;
+    height: 33px;
+    
+}
+
+.parag22{
+    font-size: 12px;
+}
+
+.parag3{
+    font-size: 16px;
+    margin-top: 3px;
+    color: #818181;
+}
+
+.text{
+    display: flex;
+    
+}
+
+.normal4{
+    width: 58px;
+    height: 23px;
+    border-radius: 4px;
+    background-color:#F8BDBD;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: mull;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
